@@ -1,0 +1,1 @@
+This is a BASH script for running Zoom or virtual conference software that uses an image of your selection then prompts user for three lines of input that gets dsisplayed over the selected image as if that content were from an actual web camera.
